@@ -1,5 +1,5 @@
 openapi: 3.0.0
-info:
+info: Description here
   title: Fireblocks API
   description: >
     Fireblocks provides a suite of applications to manage digital asset
